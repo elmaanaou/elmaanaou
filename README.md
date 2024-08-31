@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abderrazaq
-- 👀 I’m interested in Software engineering,and Embedded software engineering
+- 👀 I’m interested in Software engineering, and Embedded software engineering
 - 🌱 I’m currently learning Deep learning and computer vision
 
 <!---
